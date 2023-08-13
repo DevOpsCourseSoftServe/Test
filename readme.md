@@ -1,3 +1,4 @@
+## Test application
 ## Prerequisites:
 - Java JDK version 17+ should be installed in the system
 
